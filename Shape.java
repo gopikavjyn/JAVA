@@ -44,7 +44,7 @@ public class Shape
          l=sc.nextFloat();
          b=sc.nextFloat();
          
-        System.out.println("enter the radius of cicrle");
+        System.out.println("enter the radius of circle");
         r=sc.nextDouble();
         
         s1.area(s);
